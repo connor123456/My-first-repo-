@@ -55,6 +55,11 @@ verb2 =input()
 
 ### begin mad lib here ###
 
-print("Its simple. Turn the " + noun1 + ". Make him/her want " + adverb1 + "to  date you. Make sure your always dressed to" + 
+print("Its simple. Turn the " + noun1 + ".")
+print("Make him/her want " + adverb1 + "to  date you.")
+print("Make sure your always dressed to" + verb1+ ".")
+print("Each and every day waer a/an" + clothing1 + "that you know shows off your" + part1 + "to" + adjective1 + "advantage and make your" + noun2 + "look like a million" + noun3 + ".")
+print ("Even if the two of you make meaninfful" + part2 + "Contact.")
+       
 
 
